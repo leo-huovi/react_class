@@ -1,0 +1,20 @@
+{
+  "name": "react_class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mametchi/react_class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mametchi/react_class/issues"
+  },
+  "homepage": "https://github.com/mametchi/react_class#readme"
+}
